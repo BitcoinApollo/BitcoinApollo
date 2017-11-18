@@ -1,14 +1,14 @@
-Bitcoin Core integration/staging tree
+Bitcoin Apollo integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+https://bitcoinapollo.org
 
-What is Bitcoin?
+What is Bitcoin Apollo?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
+Bitcoin Apollo is a hardfork of bitcoin.  Bticoinan experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
@@ -21,7 +21,7 @@ the Bitcoin Core software, see https://bitcoin.org/en/download, or read the
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Bitcoin Apollo is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
