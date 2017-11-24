@@ -3,7 +3,7 @@ Bitcoin Apollo integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoinapollo.org
+https://bitcoinapollo.org (not live yet)
 
 What is Bitcoin Apollo?
 ----------------
