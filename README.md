@@ -8,7 +8,7 @@ https://bitcoinapollo.org
 What is Bitcoin Apollo?
 ----------------
 
-Bitcoin Apollo is a hardfork of bitcoin. We are working on scale improvements and accessibility issues.  Please contact us if you are interested in joining the team. 
+Bitcoin Apollo is a hardfork of bitcoin. We are working on scale improvements and accessibility issues.  Our goal is to make incremental improvements that are helpful to Bitcoin's development.  We are a friendly fork.  Please contact us if you are interested in joining the team. 
 
 
 Bticoin is an experimental digital currency that enables instant payments to
